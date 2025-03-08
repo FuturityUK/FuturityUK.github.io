@@ -8,7 +8,7 @@ description: Life Helper Privacy Policy
 
 **Last updated March 07, 2025**
 
-This Privacy Notice for Neil Baker ('I', 'me', or 'my'), describes how and why I might access, collect, store, use, and/or share ('process') your personal information when you use our services ('Services'), including when you:
+This Privacy Notice for Neil Baker and anyone else involved with this application ('we', 'us', or 'our'), describes how and why we might access, collect, store, use, and/or share ('process') your personal information when you use our services ('Services'), including when you:
 
 1. Download and use our mobile application (Life Helper), or any other application of ours that links to this Privacy Notice
 2. Engage with us in other related ways, including any sales, marketing, or events
@@ -18,25 +18,25 @@ This Privacy Notice for Neil Baker ('I', 'me', or 'my'), describes how and why I
 
 This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](#table-of-contents) below to find the section you are looking for.
 
-### What personal information do I process?
+### What personal information do we process?
 
-Any information that you enter into the application in order for it to operate, will be stored locally on your device. No information is uploaded or shared with me.
+Any information that you enter into the application in order for it to operate, will be stored locally on your device. No information is uploaded or shared with us.
 
 When you visit, use, or navigate our other Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-you-disclose-to-us).
 
-#### Do I process any sensitive personal information? 
+#### Do we process any sensitive personal information? 
 
-Some information may be considered 'special' or 'sensitive' in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs, but I do not process sensitive personal information.
+Some information may be considered 'special' or 'sensitive' in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs, but we do not process sensitive personal information.
 
-#### Do I collect any information from third parties?
+#### Do we collect any information from third parties?
 
-I do not collect any information from third parties.
+We do not collect any information from third parties.
 
-#### How do I process your information? 
+#### How do we process your information? 
 
-As the application doesn't upload any of your data, I can't process any of the information you enter into it. 
+As the application doesn't upload any of your data, we can't process any of the information you enter into it. 
 
-I process your information to provide, improve, and administer our other Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#2-how-do-we-process-your-information).
+We process your information to provide, improve, and administer our other Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#2-how-do-we-process-your-information).
 
 #### In what situations and with which parties do we share personal information? 
 
@@ -70,12 +70,12 @@ Want to learn more about what we do with any information we collect? [Review the
 13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#13-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 #### 1. WHAT INFORMATION DO WE COLLECT?
-##### Personal information you disclose to us
-**In Short:** I only collect personal information that you provide to me.
+##### Personal information you disclose to me
+**In Short:** We only collect personal information that you provide to us.
 
-Any information that you enter into the application in order for it to operate, will be stored locally on your device. No information is secretly collected in the background by your devices sensors. No information is uploaded or shared with me.
+Any information that you enter into the application in order for it to operate, will be stored locally on your device. No information is secretly collected in the background by your devices sensors. No information is uploaded or shared with us.
 
-I collect personal information that you voluntarily provide to me when you express an interest in obtaining information about me or my products and Services, when you participate in activities on the Services, or otherwise when you contact me.
+We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
 **Sensitive Information.**
 
@@ -123,10 +123,10 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 [Table of Contents](#table-of-contents)
 
 #### 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-**In Short:** I may share information in specific situations described in this section and/or with the following third parties.
+**In Short:** We may share information in specific situations described in this section and/or with the following third parties.
 
 We may need to share your personal information in the following situations:
-*   **Business Transfers.** I may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of my business to another company.
+*   **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 [Table of Contents](#table-of-contents)
 
@@ -176,7 +176,8 @@ California law requires us to let you know how we respond to web browser DNT sig
 
 #### 9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 **In Short:** If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.
-Categories of Personal Information We Collect
+
+##### Categories of Personal Information We Collect
 We have collected the following categories of personal information in the past twelve (12) months:
 
 | Category  | Examples | Collected |
