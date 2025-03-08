@@ -1,5 +1,8 @@
-title: "My Website"
-description: "A personal website using the Cayman theme"
+# Site settings
+title: "Futurity UK"
+description: "A personal website for Futurity UK"
+  
+# Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
