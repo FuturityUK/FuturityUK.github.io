@@ -302,4 +302,3 @@ You have the right to request access to the personal information we collect from
 [Table of Contents](#table-of-contents)
 
 [Top](#privacy-policy)
-
