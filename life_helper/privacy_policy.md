@@ -226,12 +226,12 @@ You have rights under certain US state data protection laws. However, these righ
 *   **Right to opt out** of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ('profiling')
 
 Depending upon the state where you live, you may also have the following rights:
-*   **Right to access the categories of personal data being processed (as permitted by applicable law, including Minnesota’s privacy law)
-*   **Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law)
-*   **Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including Minnesota's and Oregon's privacy law)
-*   **Right to review, understand, question, and correct how personal data has been profiled (as permitted by applicable law, including Minnesota’s privacy law)
-*   **Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
-*   **Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
+*   Right to access the categories of personal data being processed (as permitted by applicable law, including Minnesota’s privacy law)
+*   Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law)
+*   Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including Minnesota's and Oregon's privacy law)
+*   Right to review, understand, question, and correct how personal data has been profiled (as permitted by applicable law, including Minnesota’s privacy law)
+*   Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
+*   Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
 
 ##### How to Exercise Your Rights
 To exercise these rights, you can contact us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)'.
