@@ -71,7 +71,6 @@ Want to learn more about what we do with any information we collect? [Review the
 
 #### 1. WHAT INFORMATION DO WE COLLECT?
 ##### Personal information you disclose to us
-
 **In Short:** I only collect personal information that you provide to me.
 
 Any information that you enter into the application in order for it to operate, will be stored locally on your device. No information is secretly collected in the background by your devices sensors. No information is uploaded or shared with me.
@@ -87,7 +86,6 @@ All personal information that you provide to us must be true, complete, and accu
 [Table of Contents](#table-of-contents)
 
 #### 2. HOW DO WE PROCESS YOUR INFORMATION?
-
 **In Short:** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
@@ -125,15 +123,15 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 [Table of Contents](#table-of-contents)
 
 #### 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-In Short: We may share information in specific situations described in this section and/or with the following third parties.
+**In Short:** I may share information in specific situations described in this section and/or with the following third parties.
 
 We may need to share your personal information in the following situations:
-Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+*   **Business Transfers.** I may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of my business to another company.
 
 [Table of Contents](#table-of-contents)
 
 #### 5. HOW LONG DO WE KEEP YOUR INFORMATION?
-In Short: We keep your information for as long as necessary to fulfil the purposes outlined in this Privacy Notice unless otherwise required by law.
+**In Short:** We keep your information for as long as necessary to fulfil the purposes outlined in this Privacy Notice unless otherwise required by law.
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
 
@@ -142,30 +140,30 @@ When we have no ongoing legitimate business need to process your personal inform
 [Table of Contents](#table-of-contents)
 
 #### 6. DO WE COLLECT INFORMATION FROM MINORS?
-In Short: We do not knowingly collect data from or market to children under 18 years of age.
+**In Short:** We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at futuritysol@gmail.com.
+We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at **futuritysol@gmail.com**
 
 [Table of Contents](#table-of-contents)
 
 #### 7. WHAT ARE YOUR PRIVACY RIGHTS?
-In Short: Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
+**In Short:** Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section 'HOW CAN YOU CONTACT US ABOUT THIS NOTICE?' below.
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)' below.
 
 We will consider and act upon any request in accordance with applicable data protection laws.
  
-If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.
+If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your [Member State data protection authority](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm) or [UK data protection authority](https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/).
 
-If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
+If you are located in Switzerland, you may contact the [Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
 #### <ins>Withdrawing your consent:</ins>
 
-If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section 'HOW CAN YOU CONTACT US ABOUT THIS NOTICE?' below.
+If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)' below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-If you have questions or comments about your privacy rights, you may email us at futuritysol@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at **futuritysol@gmail.com**.
 
 [Table of Contents](#table-of-contents)
 
@@ -177,163 +175,128 @@ California law requires us to let you know how we respond to web browser DNT sig
 [Table of Contents](#table-of-contents)
 
 #### 9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-In Short: If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.
+**In Short:** If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.
 Categories of Personal Information We Collect
 We have collected the following categories of personal information in the past twelve (12) months:
 
-Category	Examples	Collected
-A. Identifiers
-Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
-
-NO
-
-B. Personal information as defined in the California Customer Records statute
-Name, contact information, education, employment, employment history, and financial information
-
-NO
-
-C. Protected classification characteristics under state or federal law
-Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data
-
-NO
-
-D. Commercial information
-Transaction information, purchase history, financial details, and payment information
-
-NO
-
-E. Biometric information
-Fingerprints and voiceprints
-
-NO
-
-F. Internet or other similar network activity
-Browsing history, search history, online behaviour, interest data, and interactions with our and other websites, applications, systems, and advertisements
-
-NO
-
-G. Geolocation data
-Device location
-
-NO
-
-H. Audio, electronic, sensory, or similar information
-Images and audio, video or call recordings created in connection with our business activities
-
-NO
-
-I. Professional or employment-related information
-Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us
-
-NO
-
-J. Education Information
-Student records and directory information
-
-NO
-
-K. Inferences drawn from collected personal information
-Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics
-
-NO
-
-L. Sensitive personal Information		
-
-NO
-
+| Category  | Examples | Collected |
+|:---------:|:--------:|:---------:|
+| A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | NO |
+| B. Personal information as defined in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information | NO |
+| C. Protected classification characteristics under state or federal law | Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data | NO |
+| D. Commercial information | Transaction information, purchase history, financial details, and payment information | NO |
+| E. Biometric information | Fingerprints and voiceprints | NO |
+| F. Internet or other similar network activity | Browsing history, search history, online behaviour, interest data, and interactions with our and other websites, applications, systems, and advertisements | NO |
+| G. Geolocation data | Device location | NO |
+| H. Audio, electronic, sensory, or similar information | Images and audio, video or call recordings created in connection with our business activities | NO |
+| I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
+| J. Education Information | Student records and directory information | NO |
+| K. Inferences drawn from collected personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics | NO |
+| L. Sensitive personal Information | | NO |
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
-Receiving help through our customer support channels;
-Participation in customer surveys or contests; and
-Facilitation in the delivery of our Services and to respond to your inquiries.
-Sources of Personal Information
-Learn more about the sources of personal information we collect in 'WHAT INFORMATION DO WE COLLECT?'
-How We Use and Share Personal Information
-Learn more about how we use your personal information in the section, 'HOW DO WE PROCESS YOUR INFORMATION?'
+*   Receiving help through our customer support channels;
+*   Participation in customer surveys or contests; and
+*   Facilitation in the delivery of our Services and to respond to your inquiries.
 
-Will your information be shared with anyone else?
+##### Sources of Personal Information
 
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, 'WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?'
+Learn more about the sources of personal information we collect in '[WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)'
+
+##### How We Use and Share Personal Information
+
+Learn more about how we use your personal information in the section, '[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)'
+
+###### Will your information be shared with anyone else?
+
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, '[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)'
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be 'selling' of your personal information.
 
 We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
-Your Rights
+
+##### Your Rights
 You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
-Right to know whether or not we are processing your personal data
-Right to access your personal data
-Right to correct inaccuracies in your personal data
-Right to request the deletion of your personal data
-Right to obtain a copy of the personal data you previously shared with us
-Right to non-discrimination for exercising your rights
-Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ('profiling')
+*   **Right to know** whether or not we are processing your personal data
+*   **Right to access** your personal data
+*   **Right to correct** inaccuracies in your personal data
+*   **Right to request** the deletion of your personal data
+*   **Right to obtain a copy** of the personal data you previously shared with us
+*   **Right to non-discrimination** for exercising your rights
+*   **Right to opt out** of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ('profiling')
+
 Depending upon the state where you live, you may also have the following rights:
-Right to access the categories of personal data being processed (as permitted by applicable law, including Minnesota’s privacy law)
-Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law)
-Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including Minnesota's and Oregon's privacy law)
-Right to review, understand, question, and correct how personal data has been profiled (as permitted by applicable law, including Minnesota’s privacy law)
-Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
-Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
-How to Exercise Your Rights
-To exercise these rights, you can contact us by submitting a data subject access request, by emailing us at futuritysol@gmail.com, or by referring to the contact details at the bottom of this document.
+*   **Right to access the categories of personal data being processed (as permitted by applicable law, including Minnesota’s privacy law)
+*   **Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law)
+*   **Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including Minnesota's and Oregon's privacy law)
+*   **Right to review, understand, question, and correct how personal data has been profiled (as permitted by applicable law, including Minnesota’s privacy law)
+*   **Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
+*   **Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
+
+##### How to Exercise Your Rights
+To exercise these rights, you can contact us by emailing us at **futuritysol@gmail.com**, or by referring to the contact details at the bottom of this document.
 
 Under certain US state data protection laws, you can designate an authorised agent to make a request on your behalf. We may deny a request from an authorised agent that does not submit proof that they have been validly authorised to act on your behalf in accordance with applicable laws.
-Request Verification
+
+##### Request Verification
 Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. We will only use personal information provided in your request to verify your identity or authority to make the request. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes.
 
 If you submit the request through an authorised agent, we may need to collect additional information to verify your identity before processing your request and the agent will need to provide a written and signed permission from you to submit such request on your behalf.
-Appeals
+
+##### Appeals
 Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at futuritysol@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
-California 'Shine The Light' Law
-California Civil Code Section 1798.83, also known as the 'Shine The Light' law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section 'HOW CAN YOU CONTACT US ABOUT THIS NOTICE?'
+
+##### California 'Shine The Light' Law
+California Civil Code Section 1798.83, also known as the 'Shine The Light' law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)'
 
 [Table of Contents](#table-of-contents)
 
 #### 10. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
 
-In Short: You may have additional rights based on the country you reside in. 
+**In Short:** You may have additional rights based on the country you reside in. 
 
-Australia and New Zealand
+##### Australia and New Zealand
 
 We collect and process your personal information under the obligations and conditions set by Australia's Privacy Act 1988 and New Zealand's Privacy Act 2020 (Privacy Act).
 
 This Privacy Notice satisfies the notice requirements defined in both Privacy Acts, in particular: what personal information we collect from you, from which sources, for which purposes, and other recipients of your personal information.
 
 If you do not wish to provide the personal information necessary to fulfil their applicable purpose, it may affect our ability to provide our services, in particular:
-1. offer you the products or services that you want respond to or help with your requests
+*   offer you the products or services that you want
+*   respond to or help with your requests
 
-At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section 'HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?'
+At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section '[HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#13-how-can-you-review-update-or-delete-the-data-we-collect-from-you)'
 
-If you believe we are unlawfully processing your personal information, you have the right to submit a complaint about a breach of the Australian Privacy Principles to the Office of the Australian Information Commissioner and a breach of New Zealand's Privacy Principles to the Office of New Zealand Privacy Commissioner.
+If you believe we are unlawfully processing your personal information, you have the right to submit a complaint about a breach of the Australian Privacy Principles to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us) and a breach of New Zealand's Privacy Principles to the [Office of New Zealand Privacy Commissioner](https://www.privacy.org.nz/your-rights/making-a-complaint/).
 
 **Republic of South Africa**
 
-At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section 'HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?'
+At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section '[HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#13-how-can-you-review-update-or-delete-the-data-we-collect-from-you)'
 
 If you are unsatisfied with the manner in which we address any complaint with regard to our processing of personal information, you can contact the office of the regulator, the details of which are:
 
-The Information Regulator (South Africa)
-General enquiries: enquiries@inforegulator.org.za
-Complaints (complete POPIA/PAIA form 5): PAIAComplaints@inforegulator.org.za & POPIAComplaints@inforegulator.org.za
+[The Information Regulator (South Africa)](https://inforegulator.org.za/)
+General enquiries: [enquiries@inforegulator.org.za](mailto:enquiries@inforegulator.org.za)
+Complaints (complete POPIA/PAIA form 5): [PAIAComplaints@inforegulator.org.za](mailto:PAIAComplaints@inforegulator.org.za) & [POPIAComplaints@inforegulator.org.za](mailto:POPIAComplaints@inforegulator.org.za)
 
 [Table of Contents](#table-of-contents)
 
 #### 11. DO WE MAKE UPDATES TO THIS NOTICE?
 
-In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
+**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated 'Revised' date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
 [Table of Contents](#table-of-contents)
 
 #### 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at futuritysol@gmail.com
+If you have questions or comments about this notice, you may email us at **futuritysol@gmail.com**
 
 [Table of Contents](#table-of-contents)
 
 #### 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
+You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/7f65c4fe-2655-440b-9dfe-299f32f61d0d).
 
 [Table of Contents](#table-of-contents)
 
