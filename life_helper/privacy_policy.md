@@ -1,22 +1,24 @@
 ---
 layout: default
-title: Life Helper Privacy Policy
-description: Life Helper Privacy Policy
+title: Privacy Notice
+description: Mobile Application Privacy Notice
 ---
 
 # PRIVACY POLICY
 
 **Last updated March 07, 2025**
 
-This Privacy Notice for Neil Baker and anyone else involved with this application ('we', 'us', or 'our'), describes how and why we might access, collect, store, use, and/or share ('process') your personal information when you use our services ('Services'), including when you:
+This Privacy Notice for Futurity ('we', 'us', or 'our'), describes how and why we might access, collect, store, use, and/or share ('process') your personal information when you use our services ('Services'), including when you:
 
-1. Download and use our mobile application (Life Helper), or any other application of ours that links to this Privacy Notice
+1. Download and use our mobile application, or any other application of ours that links to this Privacy Notice
 2. Engage with us in other related ways, including any sales, marketing, or events
 3. Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)'.
 
 ## SUMMARY OF KEY POINTS
 
 This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](#table-of-contents) below to find the section you are looking for.
+
+For transparency, not only does this Privacy Notice cover the application, but also any other interaction that you may have with us.
 
 ### What personal information do we process?
 
