@@ -3,9 +3,6 @@ layout: default
 title: Contact Us Form
 description: Please use this form to contact us
 ---
-
-<h1 style="text-align: center;">Contact Us Form</h1>
-
 <center>
     <!-- modify this form HTML and place wherever you want your form -->
     <form
@@ -25,4 +22,3 @@ description: Please use this form to contact us
         <button type="submit">Send</button>
     </form>
 </center>
-
