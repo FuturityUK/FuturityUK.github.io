@@ -22,41 +22,46 @@ For transparency, not only does this Privacy Notice cover the application, but a
 
 ### What personal information do we process?
 
-Any information that you enter into the application in order for it to operate, will be stored locally on your device. No information is uploaded or shared with us.
+**Application:** You will be aware of any information that you enter into the application. 
+This information is required in order for it to operate. 
+No information is secretly collected in the background by your devices sensors. 
+This information will be stored locally on your device and will be protected by your own device's security. 
+When you uninstall the app, the information you have entered will also be deleted. 
+None of your information is uploaded or shared with us.
 
-When you visit, use, or navigate our other Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-you-disclose-to-us).
+**Other Services:** When you visit, use, or navigate our other Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-you-disclose-to-us).
 
-#### Do we process any sensitive personal information? 
+### Do we process any sensitive personal information? 
 
 Some information may be considered 'special' or 'sensitive' in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs, but we do not process sensitive personal information.
 
-#### Do we collect any information from third parties?
+### Do we collect any information from third parties?
 
 We do not collect any information from third parties.
 
-#### How do we process your information? 
+### How do we process your information? 
 
 As the application doesn't upload any of your data, we can't process any of the information you enter into it. 
 
 We process your information to provide, improve, and administer our other Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#2-how-do-we-process-your-information).
 
-#### In what situations and with which parties do we share personal information? 
+### In what situations and with which parties do we share personal information? 
 
 As the application doesn't upload any of your data, your data can't be shared with any other parties.
 
 We may share information provided for our other Services in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#4-when-and-with-whom-do-we-share-your-personal-information).
 
-#### What are your rights? 
+### What are your rights? 
 
 Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#7-what-are-your-privacy-rights).
 
-#### How do you exercise your rights? 
+### How do you exercise your rights? 
 
 The easiest way to exercise your rights is by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](#table-of-contents).
 
-### TABLE OF CONTENTS
+## TABLE OF CONTENTS
 1. [WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
 2. [HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
 3. [WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#3-what-legal-bases-do-we-rely-on-to-process-your-information)
@@ -71,8 +76,8 @@ Want to learn more about what we do with any information we collect? [Review the
 12. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)
 13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#13-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
-#### 1. WHAT INFORMATION DO WE COLLECT?
-##### Personal information you disclose to me
+### 1. WHAT INFORMATION DO WE COLLECT?
+#### Personal information you disclose to me
 **In Short:** We only collect personal information that you provide to us.
 
 Any information that you enter into the application in order for it to operate, will be stored locally on your device. No information is secretly collected in the background by your devices sensors. No information is uploaded or shared with us.
@@ -87,7 +92,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 [Table of Contents](#table-of-contents)
 
-#### 2. HOW DO WE PROCESS YOUR INFORMATION?
+### 2. HOW DO WE PROCESS YOUR INFORMATION?
 **In Short:** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
@@ -95,7 +100,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 [Table of Contents](#table-of-contents)
 
-#### 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+### 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 **In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e. legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfil our contractual obligations, to protect your rights, or to fulfil our legitimate business interests.
 
 **<ins>If you are located in the EU or UK, this section applies to you.</ins>**
@@ -124,7 +129,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 [Table of Contents](#table-of-contents)
 
-#### 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+### 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 **In Short:** We may share information in specific situations described in this section and/or with the following third parties.
 
 We may need to share your personal information in the following situations:
@@ -132,7 +137,7 @@ We may need to share your personal information in the following situations:
 
 [Table of Contents](#table-of-contents)
 
-#### 5. HOW LONG DO WE KEEP YOUR INFORMATION?
+### 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 **In Short:** We keep your information for as long as necessary to fulfil the purposes outlined in this Privacy Notice unless otherwise required by law.
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
@@ -141,14 +146,14 @@ When we have no ongoing legitimate business need to process your personal inform
 
 [Table of Contents](#table-of-contents)
 
-#### 6. DO WE COLLECT INFORMATION FROM MINORS?
+### 6. DO WE COLLECT INFORMATION FROM MINORS?
 **In Short:** We do not knowingly collect data from or market to children under 18 years of age.
 
 We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)'
 
 [Table of Contents](#table-of-contents)
 
-#### 7. WHAT ARE YOUR PRIVACY RIGHTS?
+### 7. WHAT ARE YOUR PRIVACY RIGHTS?
 **In Short:** Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
 
 In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)' below.
@@ -169,17 +174,17 @@ If you have questions or comments about your privacy rights, you may contact us 
 
 [Table of Contents](#table-of-contents)
 
-#### 8. CONTROLS FOR DO-NOT-TRACK FEATURES
+### 8. CONTROLS FOR DO-NOT-TRACK FEATURES
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ('DNT') feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognising and implementing DNT signals has been finalised. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
 
 California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognising or honouring DNT signals, we do not respond to them at this time.
 
 [Table of Contents](#table-of-contents)
 
-#### 9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+### 9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 **In Short:** If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.
 
-##### Categories of Personal Information We Collect
+#### Categories of Personal Information We Collect
 We have collected the following categories of personal information in the past twelve (12) months:
 
 | Category  | Examples | Collected |
@@ -202,15 +207,15 @@ We may also collect other personal information outside of these categories throu
 *   Participation in customer surveys or contests; and
 *   Facilitation in the delivery of our Services and to respond to your inquiries.
 
-##### Sources of Personal Information
+#### Sources of Personal Information
 
 Learn more about the sources of personal information we collect in '[WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)'
 
-##### How We Use and Share Personal Information
+#### How We Use and Share Personal Information
 
 Learn more about how we use your personal information in the section, '[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)'
 
-###### Will your information be shared with anyone else?
+##### Will your information be shared with anyone else?
 
 We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, '[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)'
 
@@ -218,7 +223,7 @@ We may use your personal information for our own business purposes, such as for 
 
 We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
 
-##### Your Rights
+#### Your Rights
 You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
 *   **Right to know** whether or not we are processing your personal data
 *   **Right to access** your personal data
@@ -236,29 +241,29 @@ Depending upon the state where you live, you may also have the following rights:
 *   Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
 *   Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
 
-##### How to Exercise Your Rights
+#### How to Exercise Your Rights
 To exercise these rights, you can contact us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)'.
 
 Under certain US state data protection laws, you can designate an authorised agent to make a request on your behalf. We may deny a request from an authorised agent that does not submit proof that they have been validly authorised to act on your behalf in accordance with applicable laws.
 
-##### Request Verification
+#### Request Verification
 Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. We will only use personal information provided in your request to verify your identity or authority to make the request. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes.
 
 If you submit the request through an authorised agent, we may need to collect additional information to verify your identity before processing your request and the agent will need to provide a written and signed permission from you to submit such request on your behalf.
 
-##### Appeals
+#### Appeals
 Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by contacting us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)'. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
 
-##### California 'Shine The Light' Law
+#### California 'Shine The Light' Law
 California Civil Code Section 1798.83, also known as the 'Shine The Light' law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)'
 
 [Table of Contents](#table-of-contents)
 
-#### 10. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
+### 10. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
 
 **In Short:** You may have additional rights based on the country you reside in. 
 
-##### Australia and New Zealand
+#### Australia and New Zealand
 
 We collect and process your personal information under the obligations and conditions set by Australia's Privacy Act 1988 and New Zealand's Privacy Act 2020 (Privacy Act).
 
@@ -284,7 +289,7 @@ Complaints (complete POPIA/PAIA form 5): [PAIAComplaints@inforegulator.org.za](m
 
 [Table of Contents](#table-of-contents)
 
-#### 11. DO WE MAKE UPDATES TO THIS NOTICE?
+### 11. DO WE MAKE UPDATES TO THIS NOTICE?
 
 **In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
@@ -292,12 +297,12 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 [Table of Contents](#table-of-contents)
 
-#### 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+### 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 If you have questions or comments about this notice, you may contact us by emailing [futuritysol@gmail.com](mailto:futuritysol@gmail.com).
 
 [Table of Contents](#table-of-contents)
 
-#### 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+### 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/7f65c4fe-2655-440b-9dfe-299f32f61d0d).
 
