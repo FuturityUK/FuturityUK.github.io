@@ -10,10 +10,10 @@ description: Please use this form to contact us
       method="POST"
     >
         <label>Name:</label><br>
-        <input type="text" name="name" size="40"><br>
+        <input type="text" name="name" size="30"><br>
         <br>
         <label>Email Address:</label><br>
-        <input type="email" name="email" size="40"><br>
+        <input type="email" name="email" size="30"><br>
         <br>
         <label>Message:</label><br>
         <textarea name="message" rows="10" cols="40"></textarea><br>
