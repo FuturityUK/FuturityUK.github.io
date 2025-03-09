@@ -19,7 +19,7 @@ description: Please use this form to contact us
         <input type="email" name="email"><br>
         <br>
         <label>Message:</label><br>
-        <textarea name="message" rows="10" cols="50"></textarea><br>
+        <textarea name="message" rows="10" cols="40"></textarea><br>
         <br>
         <!-- your other form fields go here -->
         <button type="submit">Send</button>
