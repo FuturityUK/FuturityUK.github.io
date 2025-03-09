@@ -18,7 +18,7 @@ This Privacy Notice for Futurity ('we', 'us', or 'our'), describes how and why w
 
 This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](#table-of-contents) below to find the section you are looking for.
 
-For transparency, not only does this Privacy Notice cover the application, but also any other interaction that you may have with us.
+For transparency, not only does this Privacy Notice cover the application, but also any other interaction that you may have with us via our other services.
 
 ### What personal information do we process?
 
