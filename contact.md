@@ -6,23 +6,23 @@ description: Please use this form to contact us
 
 # Contact Us Form
 
+<center>
 <!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/xdkenqyv"
-  method="POST"
->
-
-  <label>Name:</label><br>
-  <input type="text" name="name"><br>
-  <br>
-  <label>Email Address:</label><br>
-  <input type="email" name="email"><br>
-  <br>
-  <label>Message:</label><br>
-  <textarea name="message" rows="10" cols="50"></textarea><br>
-  <br>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-
+  <form
+    action="https://formspree.io/f/xdkenqyv"
+    method="POST"
+  >
+    <label>Name:</label><br>
+    <input type="text" name="name"><br>
+    <br>
+    <label>Email Address:</label><br>
+    <input type="email" name="email"><br>
+    <br>
+    <label>Message:</label><br>
+    <textarea name="message" rows="10" cols="50"></textarea><br>
+    <br>
+    <!-- your other form fields go here -->
+    <button type="submit">Send</button>
+  </form>
+</center>
 
