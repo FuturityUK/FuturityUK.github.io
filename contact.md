@@ -21,7 +21,6 @@ description: Please use this form to contact us
         <br>
         <!-- your other form fields go here -->
         <div class="g-recaptcha" data-sitekey="6LfmYu8qAAAAAJ7GAJQsEtLXJfw5-KViM6je7HzD" data-action="LOGIN"></div><br>
-        <br>
         <button type="submit">Send</button>
     </form>
 </center>
